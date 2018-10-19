@@ -1,0 +1,24 @@
+{
+  "name": "w3lifer/ebay-oauth-token",
+  "keywords": [
+    "ebay",
+    "oauth",
+    "token"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6",
+    "dts/ebay-sdk-php": "^18.0"
+  },
+  "authors": [
+    {
+      "name": "Roman Grinyov",
+      "email": "w3lifer@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "w3lifer\\": ""
+    }
+  }
+}
